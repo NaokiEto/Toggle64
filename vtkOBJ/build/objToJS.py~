@@ -1112,6 +1112,8 @@ def convert_ascii(infile, morphfiles, colorfiles, outfile):
     out.write(text)
     out.close()
 
+    print "YOLO SWAG";
+
     for g in glob.glob('*.obj'):
         os.unlink(g)
 

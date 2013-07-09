@@ -1,4 +1,4 @@
-# Install script for directory: /var/www/labvtk/labvtk/vtkOBJWriter
+# Install script for directory: /var/www/Toggle_git/vtkOBJ
 
 # Set the install prefix
 IF(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -38,7 +38,7 @@ ELSE(CMAKE_INSTALL_COMPONENT)
   SET(CMAKE_INSTALL_MANIFEST "install_manifest.txt")
 ENDIF(CMAKE_INSTALL_COMPONENT)
 
-FILE(WRITE "/var/www/labvtk/labvtk/vtkOBJWriter/build/${CMAKE_INSTALL_MANIFEST}" "")
+FILE(WRITE "/var/www/Toggle_git/vtkOBJ/build/${CMAKE_INSTALL_MANIFEST}" "")
 FOREACH(file ${CMAKE_INSTALL_MANIFEST_FILES})
-  FILE(APPEND "/var/www/labvtk/labvtk/vtkOBJWriter/build/${CMAKE_INSTALL_MANIFEST}" "${file}\n")
+  FILE(APPEND "/var/www/Toggle_git/vtkOBJ/build/${CMAKE_INSTALL_MANIFEST}" "${file}\n")
 ENDFOREACH(file)

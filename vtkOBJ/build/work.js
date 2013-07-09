@@ -3,7 +3,7 @@
     "metadata" :
     {
         "formatVersion" : 3.1,
-        "sourceFile"    : "car_test25.obj",
+        "sourceFile"    : "trytry1.obj",
         "generatedBy"   : "OBJConverter",
         "vertices"      : 14387,
         "faces"         : 28256,
