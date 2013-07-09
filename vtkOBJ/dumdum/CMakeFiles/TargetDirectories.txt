@@ -1,2 +1,0 @@
-/var/www/labvtk/HariVTKLab/JSONLoader/vtkOBJ/dumdum/CMakeFiles/vtkOBJWriterExample.dir
-/var/www/labvtk/HariVTKLab/JSONLoader/vtkOBJ/dumdum/CMakeFiles/vtkOBJWriterTest.dir
