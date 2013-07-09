@@ -1,0 +1,2 @@
+/var/www/labvtk/labvtk/vtkOBJWriter/build/CMakeFiles/vtkOBJWriterExample.dir
+/var/www/labvtk/labvtk/vtkOBJWriter/build/CMakeFiles/vtkOBJWriterTest.dir

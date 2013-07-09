@@ -164,7 +164,7 @@ function init()
 	// note: 4x4 checkboard pattern scaled so that each square is 25 by 25 pixels.
 
 $(document).ready(function(){
-	$.get("findjson3jsbase64.php", function(data) {	
+	$.get("findjson.php", function(data) {	
 		alert(data); //uncomment this for debug
                 load(data);
 	}, 'text');
