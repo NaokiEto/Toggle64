@@ -1112,6 +1112,10 @@ def convert_ascii(infile, morphfiles, colorfiles, outfile):
     out.write(text)
     out.close()
 
+    # delete the trash vtk, obj, and js files
+    for f in glob.glob('*.vtk'):
+        os.unlink(f)
+
     for g in glob.glob('*.obj'):
         os.unlink(g)
 
