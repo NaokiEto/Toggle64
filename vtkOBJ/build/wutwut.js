@@ -3,7 +3,7 @@
     "metadata" :
     {
         "formatVersion" : 3.1,
-        "sourceFile"    : "trytry1.obj",
+        "sourceFile"    : "howdy.obj",
         "generatedBy"   : "OBJConverter",
         "vertices"      : 14387,
         "faces"         : 28256,
